@@ -3,13 +3,13 @@
 ⚡ I'm a programmer, potential,  bookworm,  cinema & Music lover, and a man who seeks serenity.
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently Working on my career shift
+- 🔭 I’m currently Working on my career shift (Odoo Developer)
 - 🌱 I’m learning [Back End Web Development - Python Stack].
 - ⚡ Fun fact: [I want to quit programming someday to be a librarian].
 
 ## 💡 Skills
 - **Programming Languages**: Python, HTML, CSS, MySQL
-- **Frameworks**: Django Framework
+- **Technologies**: Odoo Erp Open source Framework
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ali-amin1994/)
