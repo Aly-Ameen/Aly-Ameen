@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aly Ameen
 
-⚡ I'm a programmer, potential,  bookworm,  cinema & Music lover, and a man who seeks serenity.
+⚡ I'm a programmer, a bookworm, a cinema & Music lover, and a man who seeks for serenity.
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently Working on my career shift (Odoo Developer)
